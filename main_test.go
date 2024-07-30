@@ -4,6 +4,7 @@ import (
 	"testing"
 )
 
+// test the main file
 func TestCalculateAverage(t *testing.T) {
 	tests := []struct {
 		name   string
